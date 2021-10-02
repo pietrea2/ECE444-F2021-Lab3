@@ -1,7 +1,21 @@
 # CARTE Education Pathways
 
 Adam Pietrewicz
+
 This repo is a clone of https://github.com/nelaturuk/education-pathways 
+
+Activity 1 Screenshot:
+
+![Activity 1 Screenshot](https://user-images.githubusercontent.com/60241038/135723990-f610c55b-5343-46f1-9f49-af17be597f8f.png)
+
+
+Activity 2 Screenshots:
+
+![Activity 2 Screenshot](https://user-images.githubusercontent.com/60241038/135724010-d4a9e3d3-c568-4b49-a1eb-224f240ac950.png)
+
+![Activity 2 Screenshot 2](https://user-images.githubusercontent.com/60241038/135724019-302f4e4a-6a53-4bc4-a127-860960a6f8ad.png)
+
+
 
 
 ## Description
