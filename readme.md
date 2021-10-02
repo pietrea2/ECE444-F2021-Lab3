@@ -16,6 +16,17 @@ Activity 2 Screenshots:
 ![Activity 2 Screenshot 2](https://user-images.githubusercontent.com/60241038/135724019-302f4e4a-6a53-4bc4-a127-860960a6f8ad.png)
 
 
+Activity 3 Screenshots (Building Docker Image):
+
+![Activity 3 Screenshot 1](https://user-images.githubusercontent.com/60241038/135724744-22aa80fd-a434-4544-9823-6b6c4f730ba2.png)
+
+![Activity 3 Screenshot 2](https://user-images.githubusercontent.com/60241038/135724749-d7d928bc-2cf7-483d-8dcf-273477b78ad8.png)
+
+
+
+
+
+
 
 
 ## Description
