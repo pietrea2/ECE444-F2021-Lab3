@@ -40,7 +40,7 @@ I don't know if the application understood my search or if it even looked for th
 I would want to print out messages to the user everytime they hit the search bar, to either let them know courses were found, if nothing was found, or if it was an invalid search.
 
 Next, a non-functional requirement of this system is: usability.
-This application must be easy and intuitive to use for endu users. Otherwise...why would they want to use it for course exploration?
+This application must be easy and intuitive to use for end users. Otherwise...why would they want to use it for course exploration?
 Therefore, usibility is something I want to improve in this system by updating the user-interface and layout of the application page.
 Right now, the main search page is just coloured white, and the search bars/buttons are not too appealing. Therefore i want to update the interface to have an intuitive layout of the search buttons and bars. So the end user has no problems figuring out how to use the application.
 Usibility is rooted from the user-interface of an application, if there is bad UI, then an application can be deemed un-usable.
